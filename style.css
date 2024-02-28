@@ -1,0 +1,194 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+#rectangle {
+  width: 350px;
+  height: 550px;
+  border: 10px solid #070707;
+  background-color: #0c0c0c;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#result {
+  width: 325px;
+  height: 50px;
+  position: absolute;
+  top: 7%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
+#equals {
+  width: 325px;
+  height: 50px;
+  position: absolute;
+  bottom: -3%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#one {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 65%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#two {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 65%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#three {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 65%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#plus {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 65%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#four {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 45%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#five {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 45%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#six {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 45%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#minus {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 45%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#seven {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 25%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#eight {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 25%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#nine {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 25%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#divide {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 25%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#cancel {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 8%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#zero {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 8%;
+  left: 36%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#dot {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 8%;
+  left: 62%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
+#multiply {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  bottom: 8%;
+  left: 87%;
+  transform: translate(-50%, -50%);
+  font-size: 35px;
+  background-color: yellow;
+}
